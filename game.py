@@ -10,7 +10,7 @@ class game:
       csvlist = list(csv.reader(csvfile))
     return csvlist
 
-  def pull_item(start=2132,end=2964):
+  def pull_item(start=0,end=2964):
     global csvlist
     index = random.randint(start,end)
     return_csvlist = csvlist[index]
