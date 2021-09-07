@@ -2,7 +2,7 @@
 
 Discord Bot that plays Higher or Lower with players using discord embeds in text channels , items used in game are from Runescape
 
-#How to Use
+# How to Use
 
 1. Simply type !play and let the game begin!
 
